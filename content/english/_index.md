@@ -31,7 +31,7 @@ features:
 
   - title: "Frequency List"
     image: "/images/landingpage/frequencyList.png"
-    content: "Create your own Word frequency list that keeps getting updated with each text you insert into Oku. 
+    content: "Create your own word frequency list that keeps getting updated with each text you insert into Oku. 
     Frequency lists should be unique to your own goals which oku enables you to have."
     bulletpoints:
       - "Oku keeps track how often each word occurs and shows you its ranking"
