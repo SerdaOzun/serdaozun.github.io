@@ -43,7 +43,6 @@ features:
     content: "Desktop App to read foreign language texts without getting distracted"
     bulletpoints:
       - "50+ supported languages (more coming)"
-      - "Windows + macOS supported"
       - "Fast!"
       - "No Bugs (🤞)"
       - "No AI-bullshit"
@@ -52,7 +51,7 @@ features:
       - button:
           enable: true
           label: "Roadmap"
-          link: "#"
+          link: "/roadmap"
       - button:
           enable: true
           label: "Supported languages"
@@ -63,7 +62,7 @@ features:
     content: ""
     bulletpoints:
       - "**No subscription.** Buy it once and get all future updates for free"
-      - "Desktop App. Not everything needs to be a website"
+      - "Desktop App (Windows + macOS). Not everything needs to be a website"
       - "Fully local & offline"
       - "No DRM. Own your software!"
     button:

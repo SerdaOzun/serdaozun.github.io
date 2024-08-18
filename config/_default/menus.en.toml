@@ -8,51 +8,16 @@ weight = 1
 
 [[main]]
 name = "Roadmap"
-pageRef = "/impressum"
+pageRef = "/roadmap"
 weight = 2
 
 [[main]]
-name = "About"
-pageRef = "/about"
+name = "Support"
+pageRef = "/support"
 weight = 3
-
-#[[main]]
-#weight = 4
-#name = "Pages"
-#
-#[[main]]
-#parent = "Pages"
-#name = "Blog"
-#pageRef = "/blog"
-#
-#[[main]]
-#parent = "Pages"
-#name = "Contact"
-#pageRef = "/contact"
-#
-#[[main]]
-#parent = "Pages"
-#name = "Authors"
-#pageRef = "/authors"
-#
-#[[main]]
-#parent = "Pages"
-#name = "Categories"
-#pageRef = "/categories"
-#
-#[[main]]
-#parent = "Pages"
-#name = "404 Page"
-#pageRef = "/404"
-
 
 # footer menu
 [[footer]]
-name = "About"
-pageRef = "/about"
-weight = 1
-
-[[footer]]
 name = "Impressum"
 pageRef = "/impressum"
-weight = 2
+weight = 1
