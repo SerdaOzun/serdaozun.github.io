@@ -11,4 +11,4 @@ For
 - suggestions
 - feedback
  
-and more, contact me at: my@mail.com
+and more, contact me at: support@okuread.com

@@ -11,8 +11,7 @@ Am Bonner Berg 4
 53117 Bonn  
 Deutschland
 
-Telefon: +49 175 2463035
-E-Mail: to@do.email
+E-Mail: support@okuread.com
 
 Plattform der EU-Kommission zur Online-Streitbeilegung:
 https://ec.europa.eu/consumers/odr
