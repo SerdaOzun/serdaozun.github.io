@@ -8,7 +8,7 @@ banner:
     - button:
         enable: true
         label: "Download demo for free"
-        link: "https://github.com/zeon-studio/hugoplate"
+        link: "https://github.com/SerdaOzun/serdaozun.github.io/releases"
     - button:
         enable: false
         label: "Buy now"
