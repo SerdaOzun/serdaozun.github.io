@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Oku - Read to Remember"
+  title: "Oku - Read to Remember (COMING SOON)"
   content: "Learn vocabulary faster by using Oku. Desktop App to read foreign language texts without getting distracted."
   image: "/images/landingpage/read2.png"
   buttons:
