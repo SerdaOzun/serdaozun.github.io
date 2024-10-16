@@ -5,7 +5,7 @@ description: "Supported languages for Oku App"
 draft: false
 ---
 
-#### Supported languages as of August 18th, 2024
+#### Supported languages as of October 2024
 
 - Albanian
 - Arabic

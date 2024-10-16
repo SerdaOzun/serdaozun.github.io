@@ -1,9 +1,4 @@
 {
   "main": [
-    {
-      "name": "github",
-      "icon": "fab fa-github",
-      "link": "https://www.github.com/"
-    }
   ]
 }
