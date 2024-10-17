@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Oku - Read to Remember"
+  title: "Oku - Read to Recall Vocabulary"
   content: "Learn vocabulary faster by using Oku. Desktop App to read foreign language texts without getting distracted.\
   
 
@@ -18,7 +18,7 @@ banner:
     - button:
         enable: enable
         label: "Buy"
-        link: "https://oku.lemonsqueezy.com/"
+        link: "/pricing"
 
 # Features
 features:
