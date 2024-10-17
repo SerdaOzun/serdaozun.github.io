@@ -44,8 +44,9 @@ features:
       - "Enter dozens of text before you start reading to create your frequency ranking in advance. 
       These texts won't show up in your reading list"
 
+
+doublefeatures:
   - title: "More Features"
-    image: "/images/service-1.png"
     content: "Desktop App to read foreign language texts without getting distracted"
     bulletpoints:
       - "50+ supported languages (more coming)"
@@ -63,17 +64,11 @@ features:
           enable: true
           label: "Supported languages"
           link: "/languages"
-
+          
   - title: "What makes it special?"
-    image: "/images/banner.png"
-    content: ""
     bulletpoints:
       - "**No subscription.** Buy it once and get all future updates for free"
       - "Desktop App (Windows, macOS, Debian/Ubuntu). Not everything needs to be a website"
       - "Fully local & offline (Only activate your license once)"
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
 
 ---
