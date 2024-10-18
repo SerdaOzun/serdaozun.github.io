@@ -5,6 +5,11 @@ description: "Frequently asked questions"
 draft: false
 ---
 
+#### Who is Oku for?
+
+I recommend Oku to anyone who has been learning their target language for at least a few months. 
+Beginners will have difficulties finding texts to read at their appropriate level
+
 #### Does Oku have a trial?
 
 Yes, just download it and try out the full version. The only limitation is that you can only save a maximum of two texts.
@@ -40,3 +45,10 @@ No, to offer translations would mean using services such as google translate whi
 As Oku is not subscription based I can not offer such a service. In addition some translators are better than others for specific languages. 
 I recommend to open a browser with your favorite translator (google, deepl, yandex etc.) next to the oku window.
 Offline dictionaries are part of the roadmap.
+
+#### Does Oku have builtin content?
+
+No, you have to bring your own texts, articles, news, blogs or whatever you like to read. 
+I never found content engaging that other people chose. 
+Read what you want to read or would read in your native language as well.
+
